@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  api_url: 'https://q-a-example-loopback-api.herokuapp.com'
+  api_url: 'http://3.85.230.70:3000'
 };
 
 /*
